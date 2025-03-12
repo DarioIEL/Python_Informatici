@@ -1,0 +1,14 @@
+ESERCIZIO 1
+Stampa il tuo nome e cognome in console, nel terminale. Specifica 2 variabili distinte 
+
+ESERCIZIO 2
+Calcola l'area e il perimetro di un rettangolo avente base = 5.7 e altezza = 6.2
+
+ESERCIZIO 3
+Calcola l'area e il perimetro del seguente triangolo rettangolo lato1 = 9 lato2 = 12 lato3 = 15
+- Calcola il teorema secondo il quale la somma del quadrato sull'ipotenusa è uguale alla somma dei quadrati sui cateti
+- Dimostra il teorema di Pitagora 
+
+ESERCIZIO 4
+Calcola l'area e il perimetro di un cerchio di ragggio 8.7
+(Usa entrambi i metodi per il calcolo della potenza)
