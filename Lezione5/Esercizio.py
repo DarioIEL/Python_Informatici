@@ -9,4 +9,37 @@
 
 #Se l'utente è andato in perdita stampare: "Questo mese stai perdendo soldi". Calcolare il saldo
 
+
 saldo = 10000
+incasso = float(input("Quanto hai guadagnato questo mese ?")) #typecasting
+
+
+if incasso < -500:
+    print("Stai perdendo parecchio")
+elif incasso < 0:
+    print("Questo mese sei in perdita")
+elif incasso == 0:
+    print("Non hai guadagnato nulla")
+elif incasso < 1000:
+     print("Queste mese hai guadagnato così così")
+else:
+    print("Bravo questo mese hai guadagnato bene")
+
+# saldo = saldo + incasso
+saldo += incasso
+
+print("Saldo attuale", saldo)
+
+# if incasso >= 1000:
+#     print("Bravo questo mese hai guadagnato bene")
+# elif incasso == 0:
+#     print("Non hai guadagnato nulla")
+# elif incasso < 0:
+#     print("Questo mese sei in perdita")
+# else:
+#     print("Queste mese hai guadagnato così così")
+
+# totale = incasso + saldo
+
+# print("Il tuo saldo corrisponde a ", totale)
+
